@@ -1,0 +1,1 @@
+useReducer is a hook which help us to minimize useState in our components
